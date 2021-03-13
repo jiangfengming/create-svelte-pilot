@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-const { exec } = require('child_process');
 
-exec('npx degit jiangfengming/svelte-vite-ssr');
+const { spawn } = require('child_process');
+spawn('npx', ['--yes', 'tiged', 'jiangfengming/svelte-vite-ssr'], { stdio: 'inherit' });
