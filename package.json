@@ -1,0 +1,24 @@
+{
+  "name": "create-svelte-vite-ssr",
+  "version": "0.0.0",
+  "description": "",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangfengming/create-svelte-vite-ssr.git"
+  },
+  "keywords": [
+    "svelte",
+    "vite",
+    "ssr"
+  ],
+  "author": "Jiang Fengming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiangfengming/create-svelte-vite-ssr/issues"
+  },
+  "homepage": "https://github.com/jiangfengming/create-svelte-vite-ssr#readme"
+}
