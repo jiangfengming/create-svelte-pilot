@@ -1,6 +1,6 @@
 {
   "name": "create-svelte-pilot",
-  "version": "0.1.0-1",
+  "version": "0.1.0",
   "description": "Initialize a svelte project with svelte-pilot-template",
   "bin": {
     "create-svelte-pilot": "index.js"
