@@ -1,16 +1,16 @@
 {
-  "name": "create-svelte-vite-ssr",
+  "name": "create-svelte-pilot",
   "version": "0.1.0-1",
-  "description": "Initialize the project with svelte-vite-ssr template",
+  "description": "Initialize a svelte project with svelte-pilot-template",
   "bin": {
-    "create-svelte-vite-ssr": "index.js"
+    "create-svelte-pilot": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jiangfengming/create-svelte-vite-ssr.git"
+    "url": "git+https://github.com/jiangfengming/create-svelte-pilot.git"
   },
   "keywords": [
     "svelte",
@@ -20,7 +20,7 @@
   "author": "Jiang Fengming",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jiangfengming/create-svelte-vite-ssr/issues"
+    "url": "https://github.com/jiangfengming/create-svelte-pilot/issues"
   },
-  "homepage": "https://github.com/jiangfengming/create-svelte-vite-ssr#readme"
+  "homepage": "https://github.com/jiangfengming/create-svelte-pilot#readme"
 }

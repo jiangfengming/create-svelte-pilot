@@ -1,3 +1,3 @@
-# create-svelte-vite-ssr
+# create-svelte-pilot
 
-Initialize the project with [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) template.
+Initialize a svelte project with [svelte-pilot-template](https://github.com/jiangfengming/svelte-pilot-template).
