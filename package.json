@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jiangfengming/create-svelte-pilot.git"
+    "url": "git+https://github.com/svelte-pilot/create-svelte-pilot.git"
   },
   "keywords": [
     "svelte",
@@ -20,7 +20,7 @@
   "author": "Jiang Fengming",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jiangfengming/create-svelte-pilot/issues"
+    "url": "https://github.com/svelte-pilot/create-svelte-pilot/issues"
   },
-  "homepage": "https://github.com/jiangfengming/create-svelte-pilot#readme"
+  "homepage": "https://github.com/svelte-pilot/create-svelte-pilot#readme"
 }
